@@ -89,7 +89,7 @@ appelle la fonction getDataFromUrl sur chaque URL de `urlList` et renvoi un tabl
 bloque de programme tant que toutes les promesses ne sont pas résolues
 */
 const scrap = async () => {
-  const browser = await puppeteer.launch({ headless: false })
+  const browser = await puppeteer.launch()
   const urlList = await getAllUrl(browser)
   const results = await Promise.all(
     urlList.map(url => getDataFromUrl(browser, url)),
@@ -104,6 +104,6 @@ const scrap = async () => {
 // 5 - Appel la fonction `scrap()`, affichage les résulats et catch les erreurs
 scrap()
   .then(value => {
-    console.log(value)
+    // console.log(value)
   })
   .catch(e => console.log(`error: ${e}`))

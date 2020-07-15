@@ -46,7 +46,6 @@ const fs = require('fs');
         Array.from(document.querySelectorAll('.mec-event-title a'))
         .map(link => ({url : link.href}))
     )
-    console.log(urls)
     //****************** Fin de la récupération des url **************************//
 
     /*console.log(titres)
@@ -61,6 +60,6 @@ const fs = require('fs');
     let data_logo = JSON.stringify(images, null, 2);
     fs.writeFileSync('../json/abenafrica/abenafrica-logos.json', data_logo);
     // fs.writeFileSync('../../configMongoDB/dataset/abenafrica-logos.json', data_logo)
-    console.log("********** Scrapping fini ***********")
+    // console.log("********** Scrapping fini ***********")
     await browser.close();
 })();
