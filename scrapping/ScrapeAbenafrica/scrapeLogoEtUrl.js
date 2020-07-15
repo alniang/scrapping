@@ -56,11 +56,11 @@ const fs = require('fs');
 
     let data_url = JSON.stringify(urls, null, 2);
     fs.writeFileSync('../json/abenafrica/abenafrica-urls.json', data_url);
-    fs.writeFileSync('../../configMongoDB/dataset/abenafrica-urls.json', data_url)
+    // fs.writeFileSync('../../configMongoDB/dataset/abenafrica-urls.json', data_url)
     
     let data_logo = JSON.stringify(images, null, 2);
     fs.writeFileSync('../json/abenafrica/abenafrica-logos.json', data_logo);
-    fs.writeFileSync('../../configMongoDB/dataset/abenafrica-logos.json', data_logo)
+    // fs.writeFileSync('../../configMongoDB/dataset/abenafrica-logos.json', data_logo)
     console.log("********** Scrapping fini ***********")
     await browser.close();
 })();

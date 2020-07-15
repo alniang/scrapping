@@ -38,19 +38,19 @@ const fs = require('fs');
 
     let data_url = JSON.stringify(urls, null, 2);
     fs.writeFileSync('../json/afrikrea/afrikrea-urls.json', data_url);
-    fs.writeFileSync('../../configMongoDB/dataset/afrikrea-urls.json', data_url);
+    // fs.writeFileSync('../../configMongoDB/dataset/afrikrea-urls.json', data_url);
 
     let data_logo = JSON.stringify(logos, null, 2);
     fs.writeFileSync('../json/afrikrea/afrikrea-logos.json', data_logo);
-    fs.writeFileSync('../../configMongoDB/dataset/afrikrea-logos.json', data_logo);
+    // fs.writeFileSync('../../configMongoDB/dataset/afrikrea-logos.json', data_logo);
 
     let data_titre = JSON.stringify(titres, null, 2);
     fs.writeFileSync('../json/afrikrea/afrikrea-titres.json', data_titre);
-    fs.writeFileSync('../../configMongoDB/dataset/afrikrea-titres.json', data_titre);
+    // fs.writeFileSync('../../configMongoDB/dataset/afrikrea-titres.json', data_titre);
 
     let data_prix = JSON.stringify(prix, null, 2);
     fs.writeFileSync('../json/afrikrea/afrikrea-prix.json', data_prix);
-    fs.writeFileSync('../../configMongoDB/dataset/afrikrea-prix.json', data_prix);
+    // fs.writeFileSync('../../configMongoDB/dataset/afrikrea-prix.json', data_prix);
 
     await browser.close();
 })();
