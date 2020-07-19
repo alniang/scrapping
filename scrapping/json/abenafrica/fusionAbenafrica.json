@@ -22,17 +22,6 @@
     "url": "https://abenafrica.com/afro-agenda-01/reouverture-mondiale-du-online-african-film-festival/"
   },
   {
-    "id": "abenafricacomafroagenda01debatautourdufilmlesmiserables",
-    "titre": "Débat autour du film “Les Misérables”",
-    "lieu": "En ligne",
-    "desc": "Le film “Les Misérables” de Ladj Ly fait totalement écho à l’actualité liée au racisme et aux violences policières.\nSans tomber dans les clichés, ce long-métrage poignant et haletant est une plongée réaliste dans l’univers des cités mais également dans celui de la brigade anti-criminalité de Montfermeil dans le 93.\n\nSorti en 2019, il est une photographie quasi-instantanée d’une situation figée depuis des années.\nCet état des lieux alarmant ne laisse pas indifférent et ouvre la voie à diverses pistes de réflexion.\n\nAcclamé par la critique, le film “Les Misérables” a reçu de nombreux prix dont celui du grand jury du Festival de Cannes.\nFort de son succès auprès du public, il est d’ailleurs encore à l’affiche dans plusieurs cinémas partout en France.\nSinon, vous le trouverez en location à partir de 4,99€ sur :\n-Youtube\n-Amazon Prime Vidéo\n-Google Play\n\nJe vous attends nombreux le jeudi 16 juillet à 19h sur Google Meet pour un échange qui promet d’être enrichissant.\nLe lien vers cet évènement sera disponible pour les personnes qui s’inscrivent.\n\nA très bientôt!\n\nNicole",
-    "debut": "16 Juil 2020",
-    "fin": null,
-    "heure": "19:00 - 20:30",
-    "logo": "https://abenafrica.com/wp-content/uploads/2020/06/afro_agenda_Paris_evenement_128-300x400.png",
-    "url": "https://abenafrica.com/afro-agenda-01/debat-autour-du-film-les-miserables/"
-  },
-  {
     "id": "abenafricacomafroagenda01concertacoustiquesilencieuxesykennengaenguadeloupe",
     "titre": "CONCERT ACOUSTIQUE SILENCIEUX E.SY KENNENGA EN GUADELOUPE",
     "lieu": "Guadeloupe",
@@ -42,28 +31,6 @@
     "heure": "20:00 - 23:55",
     "logo": "https://abenafrica.com/wp-content/uploads/2020/07/afro_agenda_Paris_evenement_136-300x400.jpg",
     "url": "https://abenafrica.com/afro-agenda-01/concert-acoustique-silencieux-e-sy-kennenga-en-guadeloupe/"
-  },
-  {
-    "id": "abenafricacomafroagenda01lemakivotrenouveaurendezvousafrosavoureux",
-    "titre": "Le MAKI, votre nouveau rendez-vous afrosavoureux",
-    "lieu": "Le petit jardin café-resto",
-    "desc": "Le MAKI, votre nouveau rendez-vous afrosavoureux !\n\nJeudi 16 juillet prochain, on vous ramène la vibe d’Abidjan et de Lagos, en passant par Accra et Kinshasa, le tout au coeur de Pointe-à-Pitre, au Petit Jardin. Bienvenue au Maki (Maquis), célèbre lieu de vie parallèle à l’ivoirienne.\n\nLe temps d’une soirée, venez découvrir les spécialités de l’Afrique de l’Ouest, et Centrale tout en vous ambiançiant sur les derniers mix AFROBEAT 🎵 qui font bouger le continent. Venez converser, échanger, manger, bavarder !\n\nProgramme :\n\nFOOD\n\n⁣➡ L’incontournable :\n\nMafé Poulet Fumé\n\nMafé Veggie\n\n⁣➡ L’ inédit :\n\nGombo & Poulet Fumé\n\nGombo Veggie\n\nTarif\n\nFormule ( Plat + Boisson) : 20€\n\n⁣Plat seul : 15€\n\n(Celles et ceux qui souhaitent simplement boire un verre vous êtes les bienvenus également ! )\n\nDRINK\n\nCocktails inédits à base de gingembre\n\nMARKET\n\nPop-up store de créateurs, artisans et talents locaux qui placent les savoir-faire du continent au coeur de leurs créations.\n\nOn vous attend au MAKI le jeudi 16 juillet prochain au Petit Jardin.\n\nSOYEZ AFROBEAUTIFUL !\n\nRéservation de vos formules et plats en ligne obligatoire.",
-    "debut": "16 Juil 2020",
-    "fin": null,
-    "heure": "20:00 - 23:55",
-    "logo": "https://abenafrica.com/wp-content/uploads/2020/07/afro_agenda_Paris_evenement_140-300x400.jpg",
-    "url": "https://abenafrica.com/afro-agenda-01/le-maki-votre-nouveau-rendez-vous-afrosavoureux/"
-  },
-  {
-    "id": "abenafricacomafroagenda01deconfinadechezomaki",
-    "titre": "DECONFINADE CHEZ O’MAKI",
-    "lieu": null,
-    "desc": "DéConFinaDe chez @omakiparis\n\nTous les Jeudis, durant tout l’été…\nPour le plaisir de vivre, le plaisir d’être déconfiné…\nVenez profiter de notre terrasse, du DJ et du Rosé !!\n\nRéservation Conseillée…",
-    "debut": "16 Juil 2020",
-    "fin": null,
-    "heure": "20:00 - 23:00",
-    "logo": "https://abenafrica.com/wp-content/uploads/2020/07/afro_agenda_Paris_evenement_143-300x400.jpg",
-    "url": "https://abenafrica.com/afro-agenda-01/deconfinade-chez-omaki/"
   },
   {
     "id": "abenafricacomafroagenda01onlineafrodanceclassforwomen",
@@ -97,5 +64,38 @@
     "heure": "All Day",
     "logo": "https://abenafrica.com/wp-content/uploads/2020/05/afro_agenda_Paris_evenement_201-300x400.jpg",
     "url": "https://abenafrica.com/afro-agenda-01/longo-cours-de-danse-initiatique-congolaise/"
+  },
+  {
+    "id": "abenafricacomafroagenda01ladecouverteafrodisiacsaveursducongo",
+    "titre": "La Découverte Afrodisiac : Saveurs du Congo",
+    "lieu": "L'Afrodisiac Restaurant",
+    "desc": "Pour sa réouverture, l’Afrodisiac Restaurant, restaurant aux multiples saveurs africaines, a décidé de mettre à l’honneur les origines de sa gérante Tiffany KALEMA : le Congo .\n\nCette réouverture est aussi synonyme de renouveau car le restaurant a profité du confinement pour se faire une beauté : nouvelles déco, nouvelle carte, nouveaux codes de service, nouveau logo…\n\nBref, nous vous invitons à venir découvrir tout cela le mercredi 22 juillet à partir de 19h. Une soirée agrémentée d’un nouveau concept :\n\nLa Découverte Afrodisiac des saveurs du Congo.\n\nvenez profiter de cette soirée spéciale pour découvrir et déguster 3 plats phares de la cuisine congolaise, spécialité du restaurant : Le Ntaba, le Fumbwa et le Liboké. C’est tout simplement inédit de pouvoir tout manger en une fois !\n\nLes places sont limitées donc nous vous invitons à réserver la vôtre et de venir accompagné.e (en groupe c’est plus sympa !)",
+    "debut": "22 Juil 2020",
+    "fin": null,
+    "heure": "19:00 - 23:00",
+    "logo": "https://abenafrica.com/wp-content/uploads/2020/07/afro_agenda_Paris_evenement_132-300x400.jpg",
+    "url": "https://abenafrica.com/afro-agenda-01/la-decouverte-afrodisiac-saveurs-du-congo/"
+  },
+  {
+    "id": "abenafricacomafroagenda01salondesentrepreneursafricains",
+    "titre": "SALON DES ENTREPRENEURS AFRICAINS",
+    "lieu": "Paris",
+    "desc": "Plus qu’un salon, une véritable expérience !\n\nLe Salon en chiffres :\n\n2 jours d’expérience\n12 secteurs d’activité\n300 exposants\n9 000m² d’exposition\n15 000 personnes attendues\n8 millions d’internautes ciblés\n24 ateliers et formations\n10 allocutions de personnalités afro-descendantes\n15 conférences\n1000 porteurs de projet et 20 finalistes pour le concours de startups\n2 jours de job dating\n4 défilés et concerts\n+100 chefs d’entreprise pour les rencontres B2B",
+    "debut": "24 Juil 2020",
+    "fin": " - 25 Juil 2020",
+    "heure": "All Day",
+    "logo": "https://abenafrica.com/wp-content/uploads/2020/07/afro_agenda_Paris_evenement_160.png",
+    "url": "https://abenafrica.com/afro-agenda-01/salon-des-entrepreneurs-africains/"
+  },
+  {
+    "id": "abenafricacomafroagenda01liveavecjessy",
+    "titre": "LIVE AVEC JESSY !",
+    "lieu": "Instagram",
+    "desc": "Message de l’organisatrice :\n\nLive avec Jessy est une émission de critique média et pop culture afro. Chaque semaine, je passe en revue les faits d’actualité, programmes, oeuvres littéraires ou musicales qui retiennent mon attention et partage avec vous l’analyse personnelle que j’en fais, enrichis de mon expérience de communicante noire et de mes convictions (religieuses comme politiques). En gros, c’est l’actualité à la sauce Jessy Diandra 🥘🍯 Et comme je l’annonçais en live dimanche dernier et en story, une partie de l’émission sera bientôt exclusivement réservée à celleux qui souscriront à l’offre d’abonnement que je prépare pour la 3e version de mon site, jessydiandra.fr. 😍 ‼️Information importante‼️Les personnes parmi vous (comme Loren) ayant fait preuve de générosité envers ce projet sont déjà inscrits sur ma liste de VIP, et bénéficieront d’un accès GRATUIT et ILLIMITÉ à ma plateforme pendant 1 ou plusieurs mois !\n\nSi tu souhaites toi aussi en faire partie, tu peux d’ores et déjà envoyer ta contribution via mon lien paypal 💳 (que tu trouveras dans ma bio)! Précise bien ton adresse mail en commentaire lors de l’envoi pour que tu puisses recevoir l’email notifiant l’ouverture de ton accès lors du lancement.\n\nJ’ai tellement hâte que vous découvriez cette nouvelle version de moi. En attendant, je vous dis à dimanche pour le premier épisode enregistré ! 😘 Rendez-vous en story tout au long de la semaine pour activer votre rappel.",
+    "debut": "26 Juil 2020",
+    "fin": " - 31 Août 2020",
+    "heure": "19:00",
+    "logo": "https://abenafrica.com/wp-content/uploads/2020/05/afro_agenda_Paris_evenement_113-300x400.jpg",
+    "url": "https://abenafrica.com/afro-agenda-01/live-avec-jessy/"
   }
 ]
